@@ -12,7 +12,7 @@
 }
 
 .pac-dot {
-  background-color: green;
+  background-color: green;   
   border: 5px solid white;
   box-sizing: border-box;
 }
@@ -26,7 +26,27 @@
   border-radius: 10px;
 }
 
+.blinky {
+  background-color: red;
+}
+
+.pinky {
+  background-color: pink;
+}
+
+.inky {
+  background-color: cyan;
+}
+
+.clyde {
+  background-color: orange;     
+}
+
 .pac-man {
   background-color: yellow;
-  box-radius: 10px;
+  border-radius: 10px;
+}
+
+.scared-ghost {
+  background-color: aquamarine;
 }
